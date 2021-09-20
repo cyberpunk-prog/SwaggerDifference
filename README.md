@@ -9,9 +9,9 @@
 
 2. Execute the Difference class or main.
 
-    
-    public class Difference {
-    public static void main(String []args){
+
+           public class Difference {
+           public static void main(String []args){
 
 
 3. This will generate a file in the ``testNewApi.html``. Where you can find below items:
